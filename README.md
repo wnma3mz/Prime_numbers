@@ -3,4 +3,4 @@
 
 动图实现
 
-![t.gif](https://raw.githubusercontent.com/wnma3mz/Prime_numbers/master/t.gif)
+![t.gif](https://raw.githubusercontent.com/wnma3mz/Prime_numbers/master/imgs/t.gif)
